@@ -1,4 +1,3 @@
-#include"b.h"
 extern int shared;
 int main()
 {
